@@ -7,6 +7,7 @@ This application is a webpage with information on Horiseon's range of social sol
 ## table of contents
 
 [Deployment Link](#deployment-link)
+
 [Screenshot](#screenshot)
 
 ## deployment link
