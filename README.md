@@ -15,7 +15,7 @@ This application is a webpage with information on Horiseon's range of social sol
 
 ## screenshot
 
-![Horiseon Index Page](https://github.come/stevendreed/horiseon-refac-01/blob/main/Assets/01-html-css-git-homework-demo.png?raw=true)
+[Horiseon Index Page](./01-html-css-git-homework-demo.png?raw=true)
 
 
 ## Credits
